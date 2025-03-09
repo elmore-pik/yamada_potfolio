@@ -1,4 +1,9 @@
+<script setup>
+import Header from './components/Header.vue';
+</script>
+
 <template>
+  <Header></Header>
   <main>
     <h2>WORKS</h2>
     <section>
