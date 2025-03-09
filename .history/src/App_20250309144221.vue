@@ -25,7 +25,7 @@
   </main>
 
   <footer>
-    <small>(c) oninstall.com</small>
+    <small>(c) dotinstall.com</small>
   </footer>
 </template>
 
