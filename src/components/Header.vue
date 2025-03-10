@@ -1,13 +1,13 @@
 <script setup>
-const intoro = 'フロントエンドエンジニア見習いです';
+const intro = 'フロントエンドエンジニア見習いです';
 </script>
 
 <template>
   <header>
     <img src="/yamada.png" alt="太郎のアイコン" width="128" height="128">
     <h1>山田太郎</h1>
-    <p v-text="intoro"></p>
-    <p>{{ intoro }}</p>
+    <p v-text="intro"></p>
+    <p>{{ intro.length * 2 }}</p>
   </header>
 </template>
 
