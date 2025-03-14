@@ -1,3 +1,4 @@
+<!-- App.vue -->
 <template>
   <Header></Header>
   <Main></Main>
